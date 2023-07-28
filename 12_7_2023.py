@@ -13,7 +13,7 @@ def F(lst, N, X):
         sum = lst[i + 1] - lst[i]
         end += 1
     return number
-
+print("commit")
 
 lst = []
 
